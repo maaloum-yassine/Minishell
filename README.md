@@ -61,8 +61,3 @@ $ pwd
 - Add support for job control
 - Implement scripting capabilities
 - Improve performance and memory management
-
-## License
-This project is free to use and modify according to the 42 School guidelines.
-
----

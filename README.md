@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="Minishell 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/minishelle.png" alt="Minishell 42 project badge"/>
 </p>
+
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/minishell.png" alt="Score 42 project 115"/>
+</p>
+
+
 
 ## Description
 **Minishell** is a project from 42 School that involves creating a minimalistic shell that can execute commands, manage processes, and handle user input, similar to Bash.
